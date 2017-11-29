@@ -1,10 +1,7 @@
 {
-    "vType": "object",
-    "body": {
-        "vType": "array",
-        "required": 1,
-        "elem": {
-            "vType": "object"
-        }
-    }
+  "vType": "array",
+  "required": 1,
+  "elem": {
+	"vType": "object"
+  }
 }
