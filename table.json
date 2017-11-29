@@ -1,0 +1,28 @@
+{
+    "vType": "object",
+    "title": {
+        "vType": "text",
+        "required": 0
+    },
+    "header": {
+        "vType": "array",
+        "required": 0,
+        "elem": {
+            "vType": "object",
+        }
+    },
+    "body": {
+        "vType": "array",
+        "required": 1,
+        "elem": {
+            "vType": "object",
+        }
+    },
+    "footer": {
+        "vType": "array",
+        "required": 0,
+        "elem": {
+            "vType": "object",
+        }
+    }
+}
