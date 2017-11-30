@@ -2,6 +2,9 @@
   "vType": "array",
   "required": 1,
   "elem": {
-	"vType": "object"
+	"vType": "array",
+	"elem": {
+	  "vType":"text"
+	}
   }
 }
